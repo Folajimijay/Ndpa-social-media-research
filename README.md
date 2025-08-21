@@ -53,5 +53,8 @@ ndpa-social-media-research/
 
 If you use or adapt this work, please cite:
 ```
+## Mini-Project Survey
+Participate in the NDPA Social Media User Privacy Survey: [Click here to view survey.md](docs/survey.md)
+
 Igbekoyi, F. (2025). NDPA 2023 & Social Media Compliance—Nigeria. GitHub repository.
 ```
